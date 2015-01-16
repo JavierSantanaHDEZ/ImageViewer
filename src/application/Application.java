@@ -20,7 +20,7 @@ public class Application {
         new Application().execute();
     }
     
-    private static final String PATH = "C:\\Users\\Yonay\\Desktop\\IS2";
+    private static final String PATH = "C:\\Users\\Javier\\Desktop\\IS2";
     private Map<String, Command> commandMap;
     private ApplicationFrame frame;
 
